@@ -1,0 +1,11 @@
+#define PI 3.141592653
+#include<stdio.h>
+#include<math.h>
+float getArea(float r);
+int main(int argc, char*argv);
+{
+	float s1,s2
+		float r1,r2
+		printf()
+		scanf()
+}
